@@ -127,7 +127,7 @@ These additional roles are external to, and highly engaged with, responders in t
 
 ## Messenger
 ### Initiate
-1. For public impacting incidents, post initial incident notice following StatusPage Process
+1. For public impacting incidents, post initial incident notice following StatusPage Process. (If you are not a StatusPage Admin, ping @login-statuspagers and ask for a volunteer to help you post updates for this incident.)
 1. Situation Report (sitrep) ticket created in [identity-security-private](https://github.com/18F/identity-security-private) repo
 1. Create email notice to GSA IR, ISSM, ISSO using the [Incident Response - GSA IR Email Template](https://docs.google.com/document/u/0/d/16h4gDq9JeW8JBhBDswSvoGRWx6qQvX_4spyEZVbjlcA/edit)
 1. Once the situation is assessed, ping @login-comms-oncall with brief triage summary
